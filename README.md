@@ -1,2 +1,3 @@
 # hello-world
-repo
+
+write a bit about yourself
